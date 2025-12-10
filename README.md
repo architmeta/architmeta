@@ -1,6 +1,6 @@
 ## Salam-Namaste
 
-Archit here — a mixed-methods researcher with a passion for journalism. I specialize in conflict analysis, using content analysis and critical discourse analysis to understand how narratives, power, and language shape society. I also enjoy photography and collaborative cooking, both of which shape the “flavor” of my reportage — incorporating new perspectives to better serve the community by challenging hegemonic narratives. 
+Archit here — a mixed-methods researcher with a passion for journalism. I specialize in conflict analysis, using content analysis and critical discourse analysis to understand how narratives, power, and language shape society. I also enjoy [photography](https://architm.notion.site/Photography-57f43ed83e53485ba6f85f3bf0a8e6d4) and collaborative cooking, both of which shape the “flavor” of my reportage — incorporating new perspectives to better serve the community by challenging hegemonic narratives. 
 
 You can find more details about my background and projects in my [academic résumé](https://flowcv.com/resume/fkghcj0f2c2k)
 
