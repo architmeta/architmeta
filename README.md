@@ -1,8 +1,9 @@
-## 🤲 Salam-Namaste 🙏
+## Salam-Namaste
 
-I am Archit, a journalist based in Washington DC, with a master's degree in [Communication, Culture and Technology]([https://cct.georgetown.edu/](https://cct.georgetown.edu/archit-mehta/)) from Georgetown University. My work lies at the intersection of old-school journalism and online sleuthing. I'm academic interests are mis/disinformation, [critical discourse analysis](https://www.researchgate.net/profile/Ruth-Wodak/publication/238105100_DCA_-_Critical_Discourse_Analysis/links/0a85e535bc18f09787000000/DCA-Critical-Discourse-Analysis.pdf), investigating and documenting human rights violations, and media analysis.  
+Archit here — a mixed-methods researcher with a passion for journalism. I specialize in conflict analysis, using content analysis and critical discourse analysis to understand how narratives, power, and language shape society. I also enjoy photography and collaborative cooking, both of which shape the “flavor” of my reportage — incorporating new perspectives to better serve the community by challenging hegemonic narratives. 
 
-I’m currently learning coding, data analysis, and visual storytelling at the Columbia Journalism School's [Lede Program](https://ledeprogram.com/).
+You can find more details about my background and projects in my [academic résumé](https://flowcv.com/resume/fkghcj0f2c2k)
+
 
 <!--
 **architmeta/architmeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
